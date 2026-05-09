@@ -1,0 +1,55 @@
+---
+name: Create README for OctoAcme Project Management Docs
+description: Create a comprehensive README that consolidates all OctoAcme project management process documents with links and summary
+title: "[Process Doc Update]: Create README for OctoAcme Project Management Docs with links to all process documents and management process summary"
+labels: ["documentation", "process improvement"]
+assignees: []
+body: |
+  ## Summary
+  Create a README document for the OctoAcme Project Management Docs folder that:
+  1. Provides links to all process documents in the docs folder
+  2. Includes a brief summary of OctoAcme's project management processes
+  3. Serves as the central index and entry point for all project management documentation
+  
+  ## New Content Summary
+  - README document that consolidates and indexes all OctoAcme project management process documents
+  - Links to all 8 documentation files:
+    - [octoacme-project-management-overview.md](https://github.com/Kamalam2025/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/docs/octoacme-project-management-overview.md)
+    - [octoacme-project-initiation.md](https://github.com/Kamalam2025/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/docs/octoacme-project-initiation.md)
+    - [octoacme-project-planning.md](https://github.com/Kamalam2025/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/docs/octoacme-project-planning.md)
+    - [octoacme-execution-and-tracking.md](https://github.com/Kamalam2025/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/docs/octoacme-execution-and-tracking.md)
+    - [octoacme-risks-and-communication.md](https://github.com/Kamalam2025/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/docs/octoacme-risks-and-communication.md)
+    - [octoacme-release-and-deployment.md](https://github.com/Kamalam2025/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/docs/octoacme-release-and-deployment.md)
+    - [octoacme-retrospective-and-continuous-improvement.md](https://github.com/Kamalam2025/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/docs/octoacme-retrospective-and-continuous-improvement.md)
+    - [octoacme-roles-and-personas.md](https://github.com/Kamalam2025/skills-scale-institutional-knowledge-using-copilot-spaces/blob/main/docs/octoacme-roles-and-personas.md)
+  
+  - Project management process summary covering OctoAcme's core approach:
+    - Customer-first principles with iterative delivery
+    - Clear ownership through PM and Product Lead roles
+    - Data-informed decision making and psychological safety
+    - Five-phase lifecycle: Initiation → Planning → Execution → Release → Close & Retrospective
+    - Regular communication cadence for alignment and transparency
+  
+  ## Why This Update Is Needed
+  The OctoAcme project management documentation currently exists as individual markdown files scattered across the docs folder. A comprehensive README would:
+  - Provide a single entry point for team members to access all process documentation
+  - Improve discoverability and navigation of project management resources
+  - Accelerate onboarding for new team members joining OctoAcme projects
+  - Establish clear documentation structure and governance
+  - Support the goal of centralizing institutional knowledge in Copilot Spaces
+  
+  ## Suggested Content
+  The README should include:
+  1. **Title**: OctoAcme Project Management Documentation
+  2. **Introduction**: Brief overview of why this documentation exists and who it's for
+  3. **Core Principles**: Summary of OctoAcme's project management philosophy
+  4. **Project Lifecycle**: Quick reference to the 5-phase approach
+  5. **Documentation Index**: Organized table with links to all process documents
+  6. **Key Roles**: Quick reference to primary project roles (PM, PdM, Developers, QA, Stakeholders)
+  7. **Getting Started**: Guidance on which docs to read first based on role
+  8. **Questions?**: Support and escalation guidance
+  
+  ## Acceptance Criteria
+  - [x] Content aligns with existing process docs
+  - [x] Update improves clarity or closes a documented gap
+  - [x] Proposed content has been reviewed with stakeholders (if needed)
